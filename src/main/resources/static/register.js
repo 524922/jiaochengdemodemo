@@ -1,4 +1,5 @@
-console.log("levant")
+console.log("levant");
+console.log("wjy");
 $("#sub").click(function () {
 
     //取值
